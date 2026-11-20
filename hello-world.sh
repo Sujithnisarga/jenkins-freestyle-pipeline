@@ -4,7 +4,7 @@ echo "================================"
 echo "Starting System Health Check"
 echo "================================"
 
-echo "Hostname: $(hostname)"
+echo "Hostname: $(hostname"
 echo "User: $(whoami)"
 echo "Date: $(date)"
 
