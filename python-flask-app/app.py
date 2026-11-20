@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return jsonify({
+return jsonify({
         "message": "Flask application is running successfully"
     })
 
